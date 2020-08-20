@@ -6,4 +6,4 @@ Développer une application de liste des endroits qu'on rêve de visiter.
 
 ### Objectif
 
- Utiliser JavaScript, NodeJS, NPM et l'API Google map, pour realiser l'application.
+ Utiliser JavaScript, NodeJS, Webpack, Npm et l'API Google map, pour realiser cette application.
